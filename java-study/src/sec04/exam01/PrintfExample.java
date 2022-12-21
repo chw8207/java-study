@@ -1,4 +1,4 @@
-package sec03.exam07;
+package sec04.exam01;
 
 public class PrintfExample {
 
