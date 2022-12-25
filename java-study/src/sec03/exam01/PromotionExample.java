@@ -3,10 +3,10 @@ package sec03.exam01;
 public class PromotionExample {
 
 	public static void main(String[] args) {
-		// 자동타입 변환
+		// 자동 타입 변환
 		byte byteValue = 10;
 		int intValue = byteValue;
-		System.out.println("intValue: " + intValue);
+		System.out.println("intVlaue: " + intValue);
 		
 		char charValue = '가';
 		intValue = charValue;
@@ -18,12 +18,11 @@ public class PromotionExample {
 		
 		longValue = 100;
 		float floatValue = longValue;
-		System.out.println("floatValue: " + floatValue);
+		System.out.println("flaotValue: " + floatValue);
 		
 		floatValue = 100.5f;
 		double doubleValue = floatValue;
 		System.out.println("doubleValue: " + doubleValue);
-
 	}
 
 }
