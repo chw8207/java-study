@@ -3,6 +3,7 @@ package sec02.exam01;
 public class IntegerLiteralExample {
 
 	public static void main(String[] args) {
+		// 정수 리터럴
 		int var1 = 0b1011;  // 2진수
 		int var2 = 0206;    // 8진수
 		int var3 = 365;     // 10진수
