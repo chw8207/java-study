@@ -3,6 +3,7 @@ package sec03.exam04;
 public class LongOperationExample {
 
 	public static void main(String[] args) {
+		// 정수 타입의 연산
 		byte value1 = 10;
 		int value2 = 100;
 		long value3 = 1000L;
